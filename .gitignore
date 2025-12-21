@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+venv/
+
+# The Dataset (Too big for Git)
+data/
